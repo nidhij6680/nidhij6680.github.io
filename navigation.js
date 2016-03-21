@@ -1,7 +1,7 @@
 // This script implements simple routing by loading partial HTML files 
 // named corresponding to fragment identifiers.
 //
-// By Curran Kelleher October 2014
+// By Nidhi Jain
 
 // Wrap everything in an immediately invoked function expression,
 // so no global variables are introduced.
